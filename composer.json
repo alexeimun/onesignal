@@ -3,7 +3,7 @@
   "description": "OneSignal Notifications driver",
   "homepage": "https://github.com/alexeimun/onesignal.git",
   "license": "MIT",
-  "version": "1.3",
+  "version": "1.3.0",
   "authors": [
     {
       "name": "Alexis Munoz",
