@@ -1,6 +1,6 @@
 {
   "name": "alexeimun/onesignal",
-  "description": "OneSignal Notifications driver",
+  "description": "OneSignal Notifications driver for php",
   "homepage": "https://github.com/alexeimun/onesignal.git",
   "license": "MIT",
   "version": "1.3.0",
